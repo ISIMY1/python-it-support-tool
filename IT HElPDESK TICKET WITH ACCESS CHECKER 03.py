@@ -1,4 +1,4 @@
-##IT HElPDESK TICKET WITH ACCESS CHECKER 
+# # IT Helpdesk Ticket with Access Checker 
 
 username = input("Enter your username: ")
 department = input("Enter your department: ")
